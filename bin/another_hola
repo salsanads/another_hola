@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'another_hola'
+puts AnotherHola.hi(ARGV[0])
